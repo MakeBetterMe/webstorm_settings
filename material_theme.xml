@@ -3,7 +3,6 @@
     <option name="compactMenus" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
-    <option name="premium" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
@@ -15,6 +14,6 @@
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="711a68a7:1772efde453:-8000" />
-    <option name="version" value="6.4.1" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>
