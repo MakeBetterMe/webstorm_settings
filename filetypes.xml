@@ -5,6 +5,7 @@
       <mapping pattern="convenient.js" type="AUTO_DETECTED" />
       <mapping pattern="tags.js" type="AUTO_DETECTED" />
       <mapping pattern="cms.js" type="AUTO_DETECTED" />
+      <mapping pattern="components" type="JavaScript" />
       <mapping pattern="AppointmentMaintainDrawer" type="Vue.js" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
