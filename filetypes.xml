@@ -9,6 +9,7 @@
       <mapping pattern=".env.production" type="AUTO_DETECTED" />
       <mapping pattern="components" type="JavaScript" />
       <mapping pattern="webpack-wpm-plugin" type="JavaScript" />
+      <mapping pattern="utils" type="JavaScript" />
       <mapping pattern="PreviewComponentMixin" type="JavaScript" />
       <mapping pattern="EJ2TypeNodeBase" type="Vue.js" />
       <mapping pattern="AppointmentMaintainDrawer" type="Vue.js" />
