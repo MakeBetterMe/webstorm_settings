@@ -1,0 +1,5 @@
+<templateSet group="Vue">
+  <template name="desc" value="/**&#10; * @Description: &#10; * @author Yunpeng Wang&#10; * @date $date$ &#10;*/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

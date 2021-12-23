@@ -1,0 +1,17 @@
+<templateSet group="User">
+  <template name="mock start" value="/*************FIXME:MOCK START*****************/" description="注释：mock代码开始" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="mock end" value="/*************FIXME:MOCK END*****************/" description="注释：mock代码结束" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="fixme mock" value="/*************FIXME:MOCK START*****************/&#10;&#10;/*************FIXME:MOCK END*****************/" description="注释：fixme mock start &amp;&amp; end" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

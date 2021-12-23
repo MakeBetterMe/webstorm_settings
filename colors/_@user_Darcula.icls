@@ -1,0 +1,22 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-11-20T10:36:07</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.2.3.0.0</property>
+    <property name="modified">2020-11-26T18:20:36</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="53f853" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="EXECUTIONPOINT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="53f853" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
