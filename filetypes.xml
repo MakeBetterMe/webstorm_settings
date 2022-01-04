@@ -12,6 +12,7 @@
       <mapping pattern="components" type="JavaScript" />
       <mapping pattern="public_path_loader" type="JavaScript" />
       <mapping pattern="webpack-wpm-plugin" type="JavaScript" />
+      <mapping pattern="audio" type="JavaScript" />
       <mapping pattern="EJ2TypeNodeBase" type="Vue.js" />
       <mapping pattern="behaviorAnalyseDialog" type="Vue.js" />
       <mapping pattern="AppointmentMaintainDrawer" type="Vue.js" />
