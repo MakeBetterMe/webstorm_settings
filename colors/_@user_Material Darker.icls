@@ -4,7 +4,7 @@
     <property name="created">2021-02-05T17:19:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2022-01-14T20:08:06</property>
+    <property name="modified">2022-01-14T20:10:54</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -92,9 +92,9 @@
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="794f10" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="8c4711" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.thumbColor" value="cdc370" />
+    <option name="ScrollBar.Mac.thumbColor" value="8c4711" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212121" />
