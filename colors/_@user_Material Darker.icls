@@ -4,7 +4,7 @@
     <property name="created">2021-02-05T17:19:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-05-08T18:55:16</property>
+    <property name="modified">2022-01-14T20:08:06</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -92,7 +92,7 @@
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="bbc934" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="794f10" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Mac.thumbColor" value="cdc370" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
@@ -1316,7 +1316,7 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="323232" />
@@ -2964,7 +2964,6 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
