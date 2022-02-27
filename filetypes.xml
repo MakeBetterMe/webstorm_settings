@@ -14,6 +14,7 @@
       <mapping pattern="public_path_loader" type="JavaScript" />
       <mapping pattern="webpack-wpm-plugin" type="JavaScript" />
       <mapping pattern="audio" type="JavaScript" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="EJ2TypeNodeBase" type="Vue.js" />
       <mapping pattern="behaviorAnalyseDialog" type="Vue.js" />
       <mapping pattern="GarbageComponent" type="Vue.js" />
