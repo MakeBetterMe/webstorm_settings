@@ -18,6 +18,7 @@
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="EJ2TypeNodeBase" type="Vue.js" />
       <mapping pattern="behaviorAnalyseDialog" type="Vue.js" />
+      <mapping pattern="HomePhotos" type="Vue.js" />
       <mapping pattern="GarbageComponent" type="Vue.js" />
       <mapping pattern="AppointmentMaintainDrawer" type="Vue.js" />
       <mapping pattern=".analysis_options" type="YAML" />
