@@ -8,6 +8,7 @@
       <mapping pattern=".env.dev" type="AUTO_DETECTED" />
       <mapping pattern=".env.production" type="AUTO_DETECTED" />
       <mapping pattern="convenient.js" type="AUTO_DETECTED" />
+      <mapping pattern="result-20220410" type="JSON" />
       <mapping pattern="utils" type="JavaScript" />
       <mapping pattern="dashboard" type="JavaScript" />
       <mapping pattern="PreviewComponentMixin" type="JavaScript" />
