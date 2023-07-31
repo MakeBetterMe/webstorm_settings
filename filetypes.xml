@@ -23,6 +23,7 @@
       <mapping pattern="GarbageComponent" type="Vue.js" />
       <mapping pattern="AppointmentMaintainDrawer" type="Vue.js" />
       <mapping pattern=".analysis_options" type="YAML" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
