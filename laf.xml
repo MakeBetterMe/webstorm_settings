@@ -1,5 +1,12 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="Material Darker Contrast" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="Material Darker Compact Contrast" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
+      <laf-to-scheme laf="Material Darker Compact" scheme="_@user_Material Darker" />
+      <laf-to-scheme laf="Material Darker Compact Contrast" scheme="_@user_Material Darker" />
+      <laf-to-scheme laf="Material Darker Contrast" scheme="_@user_Default" />
+      <laf-to-scheme laf="Material Deep Ocean" scheme="Material Deep Ocean" />
+    </lafs-to-previous-schemes>
   </component>
 </application>
