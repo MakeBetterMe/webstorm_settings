@@ -18,6 +18,13 @@
   <component name="aws">
     <option name="promptedForTelemetry" value="true" />
   </component>
+  <component name="codewhispererStates">
+    <option name="value">
+      <map>
+        <entry key="IsAutoEnabled" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="codewhispererUserGroupSettings">
     <option name="settings">
       <map>
