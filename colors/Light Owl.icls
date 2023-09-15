@@ -4,9 +4,9 @@
     <property name="created">2018-08-04T11:56:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2023-08-26T11:18:31</property>
+    <property name="modified">2023-09-15T10:11:31</property>
     <property name="originalScheme">Light Owl</property>
-    <property name="pluginId">com.chrisrm.idea.MaterialThemeUI</property>
+    <property name="pluginId">com.mallowigi.idea</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -394,7 +394,7 @@
     </option>
     <option name="CONSOLE_OUTPUT">
       <value>
-        <option name="BACKGROUND" value="dbdbdc" />
+        <option name="BACKGROUND" value="403f53" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -543,8 +543,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -653,7 +653,7 @@
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
-        <option name="BACKGROUND" value="dedede" />
+        <option name="BACKGROUND" value="93a1a1" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
@@ -1180,7 +1180,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="dedede" />
+        <option name="BACKGROUND" value="93a1a1" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
@@ -1309,10 +1309,10 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="" />
-    <option name="JADE_FILTER_NAME" baseAttributes="" />
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
-    <option name="JADE_STATEMENTS" baseAttributes="" />
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="bc5454" />
@@ -2757,7 +2757,7 @@
     </option>
     <option name="SONARLINT_SELECTED">
       <value>
-        <option name="BACKGROUND" value="dedede" />
+        <option name="BACKGROUND" value="93a1a1" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
@@ -2855,11 +2855,6 @@
         <option name="FOREGROUND" value="57b6c2" />
       </value>
     </option>
-    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
-      <value>
-        <option name="BACKGROUND" value="d0d0d0" />
-      </value>
-    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -2913,7 +2908,7 @@
     </option>
     <option name="TS.TYPE_GUARD">
       <value>
-        <option name="BACKGROUND" value="dbdbdc" />
+        <option name="BACKGROUND" value="39414b" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
@@ -2991,12 +2986,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_CUSTOM_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="994cc3" />
-      </value>
-    </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="403f53" />
