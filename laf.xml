@@ -2,9 +2,7 @@
   <component name="LafManager">
     <laf themeId="Material Darker" />
     <lafs-to-previous-schemes>
-      <laf-to-scheme laf="Arc Dark" scheme="_@user_Arc Dark (Material)" />
       <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
-      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
       <laf-to-scheme laf="Material Darker Compact" scheme="_@user_Material Darker" />
       <laf-to-scheme laf="Material Darker Compact Contrast" scheme="_@user_Material Darker" />
       <laf-to-scheme laf="Material Darker Contrast" scheme="_@user_Default" />
